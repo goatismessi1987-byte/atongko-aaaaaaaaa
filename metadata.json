@@ -1,0 +1,8 @@
+
+{
+  "name": "EliteClub Manager",
+  "description": "A premium, high-end club management dashboard featuring member CRUD, notice boards, and AI-powered member bios using Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
